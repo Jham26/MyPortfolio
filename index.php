@@ -8,6 +8,11 @@
 <body>
     <h1>hello world</h1>
     <p>hello ka din</p>
-s
+    <ul>
+        <li>red</li>
+        <li>green</li>
+        <li>blue</li>
+    </ul>
+
 </body>
 </html>
